@@ -168,8 +168,11 @@ body{
     justify-content: center;
     
 }
-.banner{
-  height: 400px;
+.banner img{
+  height: 600px;
+  width: 100vw;
+  object-fit: cover;
+    display: block;
 }
 
 
